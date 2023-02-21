@@ -1,5 +1,6 @@
 # ScrapMechanicCoordinates
 Displays coordinates of your character at left top.
+
 IMPORTANT! That method i found a time ago on reddit, but i cannot find that post, so, im not completely a owner of this method!!
 
 # How to install?
@@ -17,7 +18,9 @@ It's easy.
 1 1 | 0 0 | 140(degrees)
 
 1 1 is your world position.
+
 0 0 is your position in cell. (Use this for searching 4 intersections)
+
 140 deg is direction your character looking at.
 
 # Pictures
