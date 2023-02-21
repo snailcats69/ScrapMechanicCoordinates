@@ -1,5 +1,6 @@
 # ScrapMechanicCoordinates
 Displays coordinates of your character at left top.
+IMPORTANT! That method i found a time ago on reddit, but i cannot find that post, so, im not completely a owner of this method!!
 
 # How to install?
 Just copy folders Data and Survival into game folder and replace files.
